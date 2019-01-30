@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Text, View, TextInput } from 'react-native';
 import { Header } from './components/common';
-import LoginForm from './components/LoginForm';
 import firebase from '@firebase/app';
 import '@firebase/auth';
+import LoginForm from './components/LoginForm';
 
 
 class App extends Component {
