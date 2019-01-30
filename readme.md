@@ -1,1 +1,2 @@
-Android Authentication App
+Project Name: Android Authentication App
+Version: 1.0
